@@ -1,0 +1,60 @@
+﻿/* Genel stil ayarları */
+body {
+    font-family: Arial, sans-serif; /* Yazı tipini ayarlayın */
+    background-color: #f4f4f4; /* Arka plan rengini ayarlayın */
+    margin: 0;
+    padding: 0;
+}
+
+/* Repeater için stil */
+#RepeaterYerler {
+    max-width: 800px; /* Maksimum genişlik */
+    margin: 0 auto; /* Ortala */
+    padding: 20px;
+    background-color: #fff; /* Beyaz arka plan */
+    border-radius: 8px; /* Köşeleri yuvarlaştır */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Hafif gölge efekti */
+}
+
+    /* Yer başlığı için stil */
+    #RepeaterYerler h3 {
+        color: #333; /* Başlık rengi */
+        font-size: 24px; /* Başlık boyutu */
+        margin-bottom: 10px; /* Alt boşluk */
+    }
+
+    /* Açıklama için stil */
+    #RepeaterYerler p {
+        color: #666; /* Açıklama rengi */
+        font-size: 16px; /* Açıklama boyutu */
+        margin-bottom: 20px; /* Alt boşluk */
+    }
+
+    /* Resim ayarları */
+    #RepeaterYerler img {
+        max-width: 100%; /* Resim genişliğini sınırlayın */
+        height: auto; /* Yükseklik otomatik */
+        border-radius: 8px; /* Resim köşelerini yuvarlaştır */
+    }
+
+/* Yorum kutusu için stil */
+.yorum {
+    background-color: #f9f9f9; /* Yorum arka plan rengi */
+    padding: 10px;
+    margin-bottom: 10px; /* Alt boşluk */
+    border-left: 4px solid #007bff; /* Sol kenar rengi */
+}
+
+/* Yorum ekleme butonu için stil */
+#RepeaterYerler .btnYorumEkle {
+    background-color: #007bff; /* Buton rengi */
+    color: #fff; /* Yazı rengi */
+    border: none; /* Kenar olmadan */
+    padding: 10px 15px; /* İç boşluk */
+    border-radius: 5px; /* Köşeleri yuvarlaştır */
+    cursor: pointer; /* İmleci göster */
+}
+
+    #RepeaterYerler .btnYorumEkle:hover {
+        background-color: #0056b3; /* Hover rengi */
+    }

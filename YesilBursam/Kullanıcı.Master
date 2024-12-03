@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Kullanici.master.cs" Inherits="YesilBursam.Kullanici" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Yeşil Bursam</title>
+    <style>
+        /* Genel stil ayarları */
+       /* Genel stil ayarları */
+body {
+      background-image: url('bursa.png');  /* Arka plan resmi */
+
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Arka plan rengi */
+    color: #333; /* Yazı rengi */
+}
+
+/* Başlık stili */
+h1 {
+    text-align: center;
+    color: #4CAF50; /* Başlık rengi */
+    margin-top: 20px;
+    font-size: 2.5rem; /* Başlık boyutu */
+}
+
+/* Menü stili */
+.menu {
+    display: flex; /* Menü öğelerini yan yana diz */
+    justify-content: center; /* Ortala */
+    background-color: #ffffff; /* Menü arka plan rengi */
+    padding: 10px 0; /* Menü için üst ve alt boşluk */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Menü gölgesi */
+    margin: 0;
+}
+
+.menu td {
+    padding: 10px 20px; /* Menü öğeleri için boşluk */
+}
+
+.menu a {
+    text-decoration: none; /* Alt çizgiyi kaldır */
+    color: #333; /* Bağlantı rengi */
+    font-weight: bold; /* Kalın yazı */
+    transition: color 0.3s, transform 0.3s, box-shadow 0.3s; /* Renk, dönüşüm ve gölge geçiş efekti */
+}
+
+/* Üzerine gelindiğinde efekt */
+.menu a:hover {
+    color: #4CAF50; /* Üzerine gelindiğinde rengi değiştir */
+    transform: scale(1.1); /* Butonu %10 büyüt */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Gölge ekle */
+}
+
+/* İçerik alanı stili */
+.content {
+    max-width: 800px; /* Maksimum genişlik */
+    margin: 20px auto; /* Ortala */
+    padding: 20px; /* İçerik için boşluk */
+    background-color: #ffffff; /* İçerik arka plan rengi */
+    border-radius: 8px; /* Kenarları yuvarlat */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* İçerik gölgesi */
+}
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h1>Yeşil Bursam</h1>
+            <table class="menu">
+                <tr>
+                    <td><a href="AnaSayfa.aspx">ANASAYFA</a></td>
+                    <td><a href="GezilecekYerler.aspx">GEZİLECEK YERLER</a></td>
+                    <td><a href="Yemekler.aspx">YEMEKLER</a></td>
+                    <td><a href="SokakLezzetleri.aspx">Sokak Lezzetleri</a></td>
+                    <td><a href="Hakkimizda.aspx">Hakkımızda</a></td>
+                                        <td><a href="HavaDurumu.aspx">HAVA DURUMU</a></td>
+
+                    <td><a href="ToplanmaAlanları.aspx">Toplanma Alanları</a></td>
+                    <td><a href="BelediyeEtkinlikler.aspx">BELEDİYE ETKİNLİKLER</a></td>
+                                        <td><a href="BursaEtkinlikler.aspx">BURSA ETKİNLİKLER</a></td>
+
+                                        <td><a href="giris.aspx">GİRİŞ YAP</a></td>
+
+                </tr>
+            </table>
+            <div class="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Hakkimizda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:Hakkimizda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminGiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:adminGiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|c:\\users\\systemadmin\\source\\repos\\yesilbursam\\hakkimizda.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:hakkimizda.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminGiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:adminGiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminPanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:adminPanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\HavaDurumu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:HavaDurumu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\SokakLezzetleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:SokakLezzetleri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminPanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:adminPanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\SokakLezzetleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:SokakLezzetleri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Kullan\u0131c\u0131.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{470BB943-1791-410B-83BC-1C493D04113D}|YesilBursam.csproj|solutionrelative:Kullan\u0131c\u0131.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hakkimizda.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Hakkimizda.aspx.cs",
+              "RelativeDocumentMoniker": "Hakkimizda.aspx.cs",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Hakkimizda.aspx.cs",
+              "RelativeToolTip": "Hakkimizda.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:02:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hakkimizda.aspx",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Hakkimizda.aspx",
+              "RelativeDocumentMoniker": "Hakkimizda.aspx",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Hakkimizda.aspx",
+              "RelativeToolTip": "Hakkimizda.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T06:02:02.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminGiris.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminGiris.aspx.cs",
+              "RelativeDocumentMoniker": "adminGiris.aspx.cs",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminGiris.aspx.cs",
+              "RelativeToolTip": "adminGiris.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:42.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminGiris.aspx",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminGiris.aspx",
+              "RelativeDocumentMoniker": "adminGiris.aspx",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminGiris.aspx",
+              "RelativeToolTip": "adminGiris.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T06:01:21.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adminPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminPanel.aspx.cs",
+              "RelativeDocumentMoniker": "adminPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminPanel.aspx.cs",
+              "RelativeToolTip": "adminPanel.aspx.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAmwDMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:33:18.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-12T05:30:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HavaDurumu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\HavaDurumu.aspx.cs",
+              "RelativeDocumentMoniker": "HavaDurumu.aspx.cs",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\HavaDurumu.aspx.cs",
+              "RelativeToolTip": "HavaDurumu.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:43:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SokakLezzetleri.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\SokakLezzetleri.aspx.cs",
+              "RelativeDocumentMoniker": "SokakLezzetleri.aspx.cs",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\SokakLezzetleri.aspx.cs",
+              "RelativeToolTip": "SokakLezzetleri.aspx.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:22:03.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminPanel.aspx",
+              "RelativeDocumentMoniker": "adminPanel.aspx",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\adminPanel.aspx",
+              "RelativeToolTip": "adminPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-08T06:24:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SokakLezzetleri.aspx",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\SokakLezzetleri.aspx",
+              "RelativeDocumentMoniker": "SokakLezzetleri.aspx",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\SokakLezzetleri.aspx",
+              "RelativeToolTip": "SokakLezzetleri.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T12:21:49.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kullan\u0131c\u0131.Master",
+              "DocumentMoniker": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Kullan\u0131c\u0131.Master",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131.Master",
+              "ToolTip": "C:\\Users\\systemadmin\\source\\repos\\YesilBursam\\Kullan\u0131c\u0131.Master",
+              "RelativeToolTip": "Kullan\u0131c\u0131.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-11T06:05:26.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
